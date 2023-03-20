@@ -1,2 +1,2 @@
 # birthdayCardSender
-Find whose birthday is today and send a Birthday card I designed
+Find whose birthday is today and send the Birthday card I designed
